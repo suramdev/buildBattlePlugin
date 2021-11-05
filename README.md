@@ -1,2 +1,5 @@
 # buildBattlePlugin
-for Danpoong
+
+즐겁다..
+
+#본론
